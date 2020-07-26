@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋
+### - Thanks for visiting my github.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lalithk90/)
 
 <!--
 **LalithK90/LalithK90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
