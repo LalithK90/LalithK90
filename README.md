@@ -19,8 +19,5 @@ Here are some ideas to get you started:
 
 ---
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LalithK90&repo=github-readme-stats" />
-
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LalithK90&repo=convoychat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LalithK90&show_icons=true&hide_border=true" />
 
