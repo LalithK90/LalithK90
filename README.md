@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 ---
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=LalithK90&show_icons=true&hide_border=true" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&layout=compact)](https://github.com/LalithK90)
 
