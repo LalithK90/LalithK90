@@ -1,6 +1,6 @@
 # 👋👋
 ## - Thanks for visiting *Lalith Kahatapitiya's* github page.
-##⚡⚡
+⚡⚡
 ---
 - 📫 How to reach me: ***[Linkedin](https://www.linkedin.com/in/lalithk90/), [twitter](https://twitter.com/LalithK90)***
 
@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=highcontrast)](https://github.com/LalithK90)
 -->
 
----
 
 >  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LalithK90&show_icons=true&hide_border=true&theme=graywhite" />
 
----
 
