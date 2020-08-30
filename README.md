@@ -1,6 +1,6 @@
 # 👋
-### - Thanks for visiting my github.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lalithk90/)
+## - Thanks for visiting Lalith Kahatapitiya's github page.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lalithk90/), [twitter](https://twitter.com/LalithK90)
 
 <!--
 **LalithK90/LalithK90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=highcontrast)](https://github.com/LalithK90)
 -->
 
 ---
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LalithK90&show_icons=true&hide_border=true&theme=highcontrast" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LalithK90&show_icons=true&hide_border=true&theme=graywhite" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=highcontrast)](https://github.com/LalithK90)
+---
 
