@@ -2,7 +2,8 @@
 ## - Thanks for visiting *Lalith Kahatapitiya's* github page.
 ⚡⚡
 ---
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/lalithk90/" target="_blank"><img alt="Linkedin Url" src="https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F"></a> <a href="https://twitter.com/LalithK90" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F">
+- 📫 How to reach me: 
+> <a href="https://www.linkedin.com/in/lalithk90/" target="_blank"><img alt="Linkedin Url" src="https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F"></a> <a href="https://twitter.com/LalithK90" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F">
 </a> <a href="https://stackoverflow.com/users/6483229/lalithk90" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=stack%20overflow&logo=stackoverflow&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F">
 </a>
 
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=highcontrast&layout=compact)](https://github.com/LalithK90)
 -->
