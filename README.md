@@ -2,7 +2,7 @@
 ## - Thanks for visiting *Lalith Kahatapitiya's* github page.
 ⚡⚡
 ---
-- 📫 How to reach me: ***[Linkedin](https://www.linkedin.com/in/lalithk90/), [twitter](https://twitter.com/LalithK90)***
+- 📫 How to reach me: ***[Linkedin](https://www.linkedin.com/in/lalithk90/) ![Twitter URL](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F), [twitter](https://twitter.com/LalithK90) ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FLalithK90)***
 
 <!--
 **LalithK90/LalithK90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
