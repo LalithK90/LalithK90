@@ -28,14 +28,24 @@
 </br>
 
 #### Stats 
+ 
+ <div> 
 
-<div width = "100%">
+<details align="left">
+  <summary>:zap: Most Used Languages</summary>
 
-> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=graywhite&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=graywhite&layout=compact" />
 
-> <img align="right" src="https://github-readme-stats.vercel.app/api?username=LalithK90&count_private=true&show_icons=true&hide_border=true&theme=graywhite" />
+</details>  
 
+  <details align="right" >
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LalithK90&count_private=true&show_icons=true&hide_border=true&theme=graywhite" />
+
+</details>
 </div>
+
 
 <!--
 **LalithK90/LalithK90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
