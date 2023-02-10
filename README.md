@@ -33,15 +33,7 @@
  
 <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=MongoDB&amp;color=47A248&amp;logo=MongoDB&amp;logoColor=FFFFFF&amp;label=" style="max-width:100%;"> <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=MySQL&amp;color=4479A1&amp;logo=MySQL&amp;logoColor=FFFFFF&amp;label=" >
  
----
 
-<h3 align="center"> 👏 Time Spend with Code : 👏 </h3>
-
-</br>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka--> 
 
 ---
 
@@ -53,6 +45,16 @@
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=LalithK90&count_private=true&show_icons=true&hide_border=true&theme=graywhite" /> 
 
+
+---
+
+<h3 align="center"> 👏 Time Spend with Code : 👏 </h3>
+
+</br>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka--> 
 
 
 
