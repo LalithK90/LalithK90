@@ -42,11 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2020 - To: 09 February 2023
-
-Total Time: 2,480 hrs 56 mins
-
-Other            1,917 hrs 18 mins>>>>>>>>>>>>>>>>>>>------   77.28 %
+Other            19 hrs 11 mins  █████████████░░░░░░░░░░░░   51.86 %
 ```
 
 <!--END_SECTION:waka--> 
