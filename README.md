@@ -37,6 +37,8 @@
 ---
 
 <h3 align="center">🧑‍👏 Some of rating is received : </h3>
+
+</br>
  
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=graywhite&layout=compact" />
 
@@ -45,6 +47,8 @@
 ---
 
 <h3 align="center"> 👏 Time Spend with Code : 👏 </h3>
+
+</br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
