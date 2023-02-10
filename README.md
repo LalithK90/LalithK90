@@ -42,8 +42,12 @@
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=LalithK90&count_private=true&show_icons=true&hide_border=true&theme=graywhite" /> 
 
+---
 
+<h3 align="center"> 👏 Time Spend with Code : 👏 </h3>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **LalithK90/LalithK90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
