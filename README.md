@@ -33,6 +33,15 @@
  
 <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=MongoDB&amp;color=47A248&amp;logo=MongoDB&amp;logoColor=FFFFFF&amp;label=" style="max-width:100%;"> <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=MySQL&amp;color=4479A1&amp;logo=MySQL&amp;logoColor=FFFFFF&amp;label=" >
  
+---
+
+<h3 align="center"> 👏 Time Spend with Code : 👏 </h3>
+
+</br>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka--> 
 
 ---
 
@@ -44,23 +53,8 @@
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=LalithK90&count_private=true&show_icons=true&hide_border=true&theme=graywhite" /> 
 
----
 
-<h3 align="center"> 👏 Time Spend with Code : 👏 </h3>
 
-</br>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 09 September 2020 - To: 09 February 2023
-
-Total Time: 2,480 hrs 56 mins
-
-Other            1,917 hrs 18 mins>>>>>>>>>>>>>>>>>>>------   77.28 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--
 **LalithK90/LalithK90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
