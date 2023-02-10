@@ -33,20 +33,7 @@
  
 <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=MongoDB&amp;color=47A248&amp;logo=MongoDB&amp;logoColor=FFFFFF&amp;label=" style="max-width:100%;"> <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=MySQL&amp;color=4479A1&amp;logo=MySQL&amp;logoColor=FFFFFF&amp;label=" >
  
-
-
----
-
-<h3 align="center">🧑‍👏 Some of rating is received : </h3>
-
-</br>
- 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=graywhite&layout=compact" />
-
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=LalithK90&count_private=true&show_icons=true&hide_border=true&theme=graywhite" /> 
-
-
----
+ ---
 
 <h3 align="center"> 👏 Time Spend with Code : 👏 </h3>
 
@@ -63,6 +50,20 @@ Other            1,917 hrs 18 mins>>>>>>>>>>>>>>>>>>>------   77.28 %
 ```
 
 <!--END_SECTION:waka--> 
+
+
+---
+
+<h3 align="center">🧑‍👏 Some of rating is received : </h3>
+
+</br>
+ 
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=graywhite&layout=compact" />
+
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=LalithK90&count_private=true&show_icons=true&hide_border=true&theme=graywhite" /> 
+
+
+
 
 
 
