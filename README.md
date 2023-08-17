@@ -36,7 +36,7 @@
  ---
 
 <h3 align="center"> 👏 Time Spend with Code : 👏 </h3>
-Total time : [![wakatime](https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0bb9f7fc8ef2.svg)](https://wakatime.com/@507f136d-29f0-48a8-8d27-0bb9f7fc8ef2)
+Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0bb9f7fc8ef2.svg"/>
 </br>
 
 <!--START_SECTION:waka-->
