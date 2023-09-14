@@ -8,8 +8,17 @@
 ---
 <h3 align="center">🧑‍ 📫 These are the ways to reach me : </h3>
 
-<a href="https://www.linkedin.com/in/lalithk90/" target="_blank"><img align="center" alt="Linkedin Url" src="https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F"></a> <a href="https://twitter.com/LalithK90" target="_blank"><img align="center" alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F">
-</a> <a href="https://stackoverflow.com/users/6483229/lalithk90" target="_blank"><img align="center" alt="Twitter URL" src="https://img.shields.io/twitter/url?label=stack%20overflow&logo=stackoverflow&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F">
+<a href="https://www.linkedin.com/in/lalithk90/" target="_blank"><img align="center" alt="Linkedin Url" src="https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F"></a>
+<a href="https://twitter.com/LalithK90" target="_blank"><img align="center" alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F">
+</a>
+<a href="https://stackoverflow.com/users/6483229/lalithk90" target="_blank"><img align="center" alt="Twitter URL" src="https://img.shields.io/twitter/url?label=stack%20overflow&logo=stackoverflow&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flalithk90%2F">
+</a>
+
+---
+
+<h3 align="center">Created Extention for IDE 💻 : </h3>
+
+<a href="https://marketplace.visualstudio.com/publishers/LalithK90" target="_blank"><img align="center" alt="Vs Code market place" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" style="height:60px;width:60px;"/>
 </a>
 
 ---
