@@ -20,7 +20,7 @@
 
 <a href="https://marketplace.visualstudio.com/publishers/LalithK90" target="_blank"><img align="center" alt="Vs Code market place" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" style="height:60px;width:60px;"/>
 </a>
-<a href="https://open-vsx.org/extension/LalithK90" target="_blank"><img align="center" alt="Vs Code market place" src="https://projects.eclipse.org/sites/default/files/open-vsx-logo-withouttext.png" style="height:40px;width:40px;"/>
+<a href="https://open-vsx.org/namespace/LalithK90" target="_blank"><img align="center" alt="Vs Code market place" src="https://projects.eclipse.org/sites/default/files/open-vsx-logo-withouttext.png" style="height:40px;width:40px;"/>
 </a>
 
 ---
