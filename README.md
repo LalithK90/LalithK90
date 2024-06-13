@@ -53,11 +53,7 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other             36 hrs 10 mins  ████████████████████████▒   97.33 %
-Docker            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-XML               12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Markdown          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Java              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other   38 hrs 44 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--> 
