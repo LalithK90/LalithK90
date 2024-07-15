@@ -1,5 +1,5 @@
 
-<h1 align="center"> ⚡⚡ Welcome to Lalith Kahatapitiya's profile. ⚡⚡ </h1>
+<h1 align="center"> ⚡⚡ Welcome to Lalith Kahatapitiya's Profile! ⚡⚡ </h1>
 
 </br>
 
