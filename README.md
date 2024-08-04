@@ -53,11 +53,11 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other             19 hrs 13 mins  █████████▒░░░░░░░░░░░░░░░   36.95 %
-Java              14 hrs 11 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
-HTML              9 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
-JavaScript        7 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
-Text              35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other             19 hrs 58 mins  █████████▓░░░░░░░░░░░░░░░   39.28 %
+Java              11 hrs 28 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+HTML              10 hrs 37 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+JavaScript        7 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+XML               15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka--> 
