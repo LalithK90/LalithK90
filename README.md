@@ -68,11 +68,13 @@ Java Properties   5 mins          ░░░░░░░░░░░░░░░�
 <h3 align="center">🧑‍👏 Some of rating is received : </h3>
 
 </br>
- 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=graywhite&layout=compact" />
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=LalithK90&count_private=true&show_icons=true&hide_border=true&theme=graywhite" /> 
+| | |
+|:-----|:--------:|
+| <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithK90&theme=graywhite&layout=compact" /> | <img align="center"  src="https://github-readme-stats.vercel.app/api?username=LalithK90&count_private=true&show_icons=true&hide_border=true&theme=graywhite" />  |
 
+
+---
 
 | Global |  Country  | 
 |:-----|:--------:|
