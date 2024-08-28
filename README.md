@@ -3,7 +3,7 @@
 
 </br>
 
-<img width="100%" src="https://github.com/LalithK90/lalithk90.github.io/blob/master/asset/img/myvision.png" />
+<img style="height:200px; width:100%;" src="https://github.com/LalithK90/lalithk90.github.io/blob/master/asset/img/myvision.png" />
 
 ---
 <h3 align="center">🧑‍ 📫 These are the ways to reach me : </h3>
