@@ -53,8 +53,8 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other              30 hrs 10 mins  █████████████████████████   99.88 %
-Python             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other              34 hrs 57 mins  █████████████████████████   99.94 %
+Python             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Jupyter Notebook   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
