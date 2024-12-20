@@ -53,8 +53,8 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other        39 hrs 30 mins  ████████████████████████░   96.64 %
-HTML         1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Other        41 hrs 46 mins  ████████████████████████▒   96.81 %
+HTML         1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 AsciiDoc     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
