@@ -53,11 +53,10 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other              24 hrs 24 mins  ███████████████████████▓░   94.22 %
-Text               27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-YAML               22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Groovy             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Properties         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other              22 hrs 55 mins  ████████████████████████▒   96.72 %
+Text               44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Jupyter Notebook   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka--> 
