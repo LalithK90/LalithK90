@@ -53,11 +53,11 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other              35 hrs 35 mins  ████████████████████▓░░░░   82.80 %
-Java               1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Bash               1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Python             1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Properties         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Other              32 hrs          ███████████████████▓░░░░░   79.07 %
+Java               2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Bash               1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Python             1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Properties         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka--> 
