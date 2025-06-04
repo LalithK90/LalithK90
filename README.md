@@ -53,10 +53,10 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other             21 hrs 54 mins  ██████████████████████░░░   88.47 %
-HTML              1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Java              46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Properties        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Other             22 hrs 9 mins   ██████████████████████▒░░   88.91 %
+HTML              1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Java              49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Properties        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 GitIgnore file    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
