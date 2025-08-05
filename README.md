@@ -53,11 +53,11 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other        37 hrs 37 mins  ██████████████████░░░░░░░   72.33 %
-TypeScript   7 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Python       4 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-JSON         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Git Config   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Other        31 hrs 34 mins  ████████████████▓░░░░░░░░   66.49 %
+TypeScript   7 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+Python       5 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+JSON         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Text         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka--> 
