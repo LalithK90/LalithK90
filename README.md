@@ -53,11 +53,11 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other        16 hrs 47 mins  ████████████████░░░░░░░░░   64.57 %
-Python       4 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-Markdown     1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Bash         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-HTML         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Other        17 hrs 30 mins  ████████████████▓░░░░░░░░   66.53 %
+Python       4 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+Markdown     1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Bash         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+HTML         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka--> 
