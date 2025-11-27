@@ -53,11 +53,11 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other          25 hrs          ████████████████████▓░░░░   82.84 %
-Python         1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-JSON           1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-TeX            41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Markdown       33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Other             24 hrs 1 min    █████████████████████░░░░   83.67 %
+Python            1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+TeX               41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Java Properties   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JSON              26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka--> 
