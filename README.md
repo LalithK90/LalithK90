@@ -53,8 +53,8 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other   19 hrs 30 mins  █████████████████████████   99.76 %
-PHP     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other   17 hrs 48 mins  █████████████████████████   99.73 %
+PHP     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka--> 
