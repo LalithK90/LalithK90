@@ -53,11 +53,11 @@ Total time : <img src="https://wakatime.com/badge/user/507f136d-29f0-48a8-8d27-0
 <!--START_SECTION:waka-->
 
 ```txt
-Other             5 hrs 28 mins   ███████████████░░░░░░░░░░   60.43 %
-Java              1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-Java Properties   59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Gradle            24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Properties        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Other             4 hrs 57 mins   ██████████████▓░░░░░░░░░░   58.02 %
+Java              1 hr 32 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+Java Properties   59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Gradle            24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Properties        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:waka--> 
