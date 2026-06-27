@@ -70,3 +70,7 @@ HTML          2 hrs 37 mins    ███░░░░░░░░░░░░░�
 Markdown      44 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 Python        39 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 CSS           11 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+```
+
+---
+![](https://komarev.com/ghpvc/?username=lalithk90&color=blueviolet&style=flat-square&label=Profile+views)
